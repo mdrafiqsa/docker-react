@@ -1,0 +1,2 @@
+docker exec -it 9e8e61ded66e sh
+docker run -it a17cd0ee7aa7 npm run test
